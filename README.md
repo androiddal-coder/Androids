@@ -1,2 +1,2 @@
 # Androids
-This repo is just for testing Purposes in Android Dev.
+This repo is just for testing purposes in Android Dev.
